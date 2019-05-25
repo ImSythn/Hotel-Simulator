@@ -1,0 +1,20 @@
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Testing Hotel Simulator.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Testing Hotel Simulator.pdb
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Hotel Simulator.exe
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\HotelEvents.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Hotel Simulator.pdb
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Hotel Simulator.exe.config
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\obj\Debug\Testing Hotel Simulator.csprojAssemblyReference.cache
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\obj\Debug\Testing Hotel Simulator.csproj.CoreCompileInputs.cache
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\obj\Debug\Testing Hotel Simulator.csproj.CopyComplete
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\obj\Debug\Testing Hotel Simulator.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Testing Hotel Simulator\obj\Debug\Testing Hotel Simulator.pdb

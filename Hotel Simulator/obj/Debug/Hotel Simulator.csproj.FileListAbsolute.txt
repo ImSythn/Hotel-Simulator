@@ -1,0 +1,28 @@
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\bin\Debug\Hotel Simulator.exe.config
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\bin\Debug\Hotel Simulator.exe
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\bin\Debug\Hotel Simulator.pdb
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csprojAssemblyReference.cache
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel_Simulator.Properties.Resources.resources
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csproj.GenerateResource.cache
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csproj.CoreCompileInputs.cache
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.exe
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.pdb
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\bin\Debug\HotelEvents.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csproj.CopyComplete
+D:\C#\Hotel Simulator\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel_Simulator.Hotel.resources
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\bin\Debug\Hotel Simulator.exe.config
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\bin\Debug\Hotel Simulator.exe
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\bin\Debug\Hotel Simulator.pdb
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\bin\Debug\HotelEvents.dll
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csprojAssemblyReference.cache
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel_Simulator.Hotel.resources
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel_Simulator.Properties.Resources.resources
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csproj.GenerateResource.cache
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csproj.CoreCompileInputs.cache
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.csproj.CopyComplete
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.exe
+D:\Backup\School\second year first semester\Project\Hotel Simulator\Hotel Simulator\obj\Debug\Hotel Simulator.pdb
